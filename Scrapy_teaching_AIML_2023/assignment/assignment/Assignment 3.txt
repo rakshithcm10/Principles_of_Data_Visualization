@@ -1,0 +1,15 @@
+Assignment 3
+
+• We used the URL https://j2store.net/demo/index.php/shop, which belongs to an online shopping website, to scrape data. Specifically, we wanted to extract product names and prices.
+
+• We scraped information from multiple pages, including various products, and stored this data in CSV and SQLite database formats.
+
+• In the "setting.py" configuration file, we explored the downloader middleware option. We have experimented with getting request and response IDs.
+
+• Downloader middleware is a system within Scrapy that helps modify how Scrapy handles requests and responses.
+
+
+This project was created by,
+
+C M Rakshith - 231057012
+Amogh D M - 231057018
